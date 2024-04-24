@@ -19,4 +19,4 @@ Expert Team Assistant from LPPKM UI in:
 ## Data Projects on Ms. Excel
 ### Interactive Dashboard
 ![Interactive Dashboard of Sales](https://raw.githubusercontent.com/janeonyi/Portofolio/817c8be928a8ab2a733c74539647c9ea5cb22d60/folder_name/Interactive%20dashboard.png)
-[File](https://docs.google.com/spreadsheets/d/1vS_f5-x-mwkt9Q47AppZVFJpXFmKFMiufG7B9FadGZQ/edit?usp=sharing)
+[File: Google Sheet](https://docs.google.com/spreadsheets/d/1vS_f5-x-mwkt9Q47AppZVFJpXFmKFMiufG7B9FadGZQ/edit?usp=sharing)
